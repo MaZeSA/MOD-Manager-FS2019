@@ -1,0 +1,32 @@
+MODManager_v3 
+ Version = 3.7.4.0 
+ Start time = 2020-11-19 21:51:50.8192 
+ CurrentDirectory = C:\Users\MaZeSa\Desktop\26_MODManager_v3.7 
+ Culture = ru 
+ Machine = DESKTOP-K73AIBG 
+ User = MaZeSa 
+ OS Version = Microsoft Windows NT 6.2.9200.0 
+ x64 = True 
+ GAME VERSION = FarmingSimulator2019 
+ 
+51:50 | Info> Load(MM3Config.config)...
+51:50 | Info> Load(MM3Config.config)...OK
+51:50 | Info> (ID1)Set Culture = ru
+51:51 | Info> ONLINEManager Initialize...
+51:51 | Info> LOADED l10n2019.zip> l10n_ru.xml
+
+51:51 | Info> Starting loading... (C:\Users\MaZeSa\Documents\My Games\FarmingSimulator2019\mods)
+51:51 | Info> (ID1)Set Culture = ru
+51:51 | Info> RUN Thread #0 ID10
+51:51 | Info> (ID10) Load mod>>>>C:\Users\MaZeSa\Documents\My Games\FarmingSimulator2019\mods\FS19_D375.zip /ZIP
+51:51 | Info> (ID1)Set Culture = ru
+51:51 | Info> (ID10)Loading> FS19_D375.zip
+51:51 | Info> (ID11) Load mod>>>>C:\Users\MaZeSa\Documents\My Games\FarmingSimulator2019\mods\FS19_KTU_10.zip /ZIP
+51:51 | Info> RUN Thread #1 ID11
+51:51 | Info> (ID11)Loading> FS19_KTU_10.zip
+51:51 | Info> (ID11)             > FS19_KTU_10.zip >KTU_10.xml (FS19_KTU_10.zip)
+51:51 | Info> (ID10)             > FS19_D375.zip >D375.xml (FS19_D375.zip)
+51:51 | Info> Thread ID10 Completed Load.
+51:51 | Info> (ID11)Sorting Category...
+51:51 | Info> (ID11)Complete Sorting Category. CategoryCount=74
+51:51 | Info> Thread ID11 Completed Load.
