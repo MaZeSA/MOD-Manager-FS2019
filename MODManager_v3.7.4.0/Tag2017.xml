@@ -1,0 +1,1060 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MMFS17 version="3">
+  <Titles>
+    <STOREDATA>
+      <uk>Налаштування магазину (STOREDATA)</uk>
+      <en>Store settings (STOREDATA)</en>
+      <fr>Paramètres base (STOREDATA)</fr>
+      <ru>Настройки магазина (STOREDATA)</ru>
+      <de>Verkaufseinstellungen (STOREDATA)</de>
+    </STOREDATA>
+    <SPECS>
+      <uk>Установки</uk>
+      <en>Sets</en>
+      <fr>Ensembles</fr>
+      <ru>Установки</ru>
+      <de>Set</de>
+    </SPECS>
+    <POWER>
+      <uk>Потужність</uk>
+      <en>Power</en>
+      <fr>Puissance</fr>
+      <ru>Мощность</ru>
+      <de>Leistung</de>
+    </POWER>
+    <MAXSPEED>
+      <uk>Максимальна швидкість</uk>
+      <en>Maximum speed</en>
+      <fr>Vitesse Maxi</fr>
+      <ru>Максимальная скорость</ru>
+      <de>Höchstgeschwindigkeit</de>
+    </MAXSPEED>
+    <NEEDEDPOWER>
+      <uk>Необхідна потужність</uk>
+      <en>Power requirement</en>
+      <fr>Puissance Requise</fr>
+      <ru>Необходимая мощность</ru>
+      <de>Benötigte Leistung</de>
+    </NEEDEDPOWER>
+    <WORKINGWIDTH>
+      <uk>Робоча ширина</uk>
+      <en>Working Width</en>
+      <fr>Largeur de travail</fr>
+      <ru>Рабочая ширина</ru>
+      <de>Arbeitsbreite</de>
+    </WORKINGWIDTH>
+    <WHEELCONFIGURATIONS>
+      <uk>Конфігурації коліс</uk>
+      <en>Wheel configurations</en>
+      <fr>Configuration Pneu</fr>
+      <ru>Конфигурации колес</ru>
+      <de>Reifen Konfiguration</de>
+    </WHEELCONFIGURATIONS>
+    <MOTORCONFIGURATIONS>
+      <uk>Конфігуратор двигунів</uk>
+      <en>Engine Configurator</en>
+      <fr>Configuration Moteur</fr>
+      <ru>Конфигуратор двигателей</ru>
+      <de>Motor Konfiguration</de>
+    </MOTORCONFIGURATIONS>
+    <DESIGNCONFIGURATIONS>
+      <uk>Конфігурації дизайну</uk>
+      <en>Design configurations</en>
+      <fr>Coonfiguration design</fr>
+      <ru>Конфигурации дизайна</ru>
+      <de>Design Konfiguration</de>
+    </DESIGNCONFIGURATIONS>
+    <BASECOLORCONFIGURATIONS>
+      <uk>Конфігурація основних кольорів</uk>
+      <en>Basic color configurations</en>
+      <fr>Configuration couleur de base</fr>
+      <ru>Основные цветные конфигурации</ru>
+      <de>Grundfarben Konfiguration</de>
+    </BASECOLORCONFIGURATIONS>
+    <RIMCOLORCONFIGURATIONS>
+      <uk>Кольорові конфігурації ободів</uk>
+      <en>Color rim configurations</en>
+      <fr>Configuration couleur jantes</fr>
+      <ru>Цветовые конфигурации ободов</ru>
+      <de>Felgenfarbe Konfiguration</de>
+    </RIMCOLORCONFIGURATIONS>
+    <FILLTYPE>
+      <uk>Тип культури</uk>
+      <en>Fill type</en>
+      <fr>Type remplissage</fr>
+      <ru>Тип культуры</ru>
+      <de>Ladegut</de>
+    </FILLTYPE>
+    <FILLTYPECATEGORIES>
+      <uk>Категорії культур</uk>
+      <en>Categories of cultures</en>
+      <fr>Catégories cultures</fr>
+      <ru>Категории культур</ru>
+      <de>Frucht Kategorien</de>
+    </FILLTYPECATEGORIES>
+    <CAPACITY>
+      <uk>Місткість </uk>
+      <en>Capacity </en>
+      <fr>Capacité</fr>
+      <ru>Вместимость</ru>
+      <de>Kapazität</de>
+    </CAPACITY>
+    <LITERSPERSECOND>
+      <uk>Літрів в секунду</uk>
+      <en>Liters per second</en>
+      <fr>Litre par seconde</fr>
+      <ru>Литров в секунду</ru>
+      <de>Liter pro Sekunde</de>
+    </LITERSPERSECOND>
+    <STRAWTYPE>
+      <uk>Тип соломи</uk>
+      <en>Type of straw</en>
+      <fr>Type paille</fr>
+      <ru>Тип соломы</ru>
+      <de>Typ Stroh</de>
+    </STRAWTYPE>
+    <OVERLOADING>
+      <uk>Перевантаження</uk>
+      <en>Overloading</en>
+      <fr>Surcharge</fr>
+      <ru>Перегрузка</ru>
+      <de>Überladen</de>
+    </OVERLOADING>
+    <FILLTRIGGER>
+      <uk>Тригер культур</uk>
+      <en>Fill trigger</en>
+      <fr>Déclemcheur Remplissage</fr>
+      <ru>Триггер культур</ru>
+      <de>Fülltrigger</de>
+    </FILLTRIGGER>
+    <NEEDEDPTOPOWER>
+      <uk>Необхідна потужність (кВт)</uk>
+      <en>Required power (kW)</en>
+      <fr>Puissance Requise (kW)</fr>
+      <ru>Требуемая мощность  (кВт)</ru>
+      <de>Minimale Leistung (kW)</de>
+    </NEEDEDPTOPOWER>
+    <PTORPM>
+      <uk>Обороти</uk>
+      <en>RPM</en>
+      <fr>RPM</fr>
+      <ru>Обороты</ru>
+      <de>U/min</de>
+    </PTORPM>
+    <POWERCONSUMER>
+      <uk>Необхідні умови</uk>
+      <en>Prerequisites</en>
+      <fr>Puissance requise</fr>
+      <ru>Требуемые условия</ru>
+      <de>Voraussetzungen</de>
+    </POWERCONSUMER>
+    <SPEEDLIMIT>
+      <uk>Обмеження швидкості</uk>
+      <en>Speed limitation</en>
+      <fr>Vitesse limite</fr>
+      <ru>Ограничение скорости </ru>
+      <de>max. Geschwindigkeit</de>
+    </SPEEDLIMIT>
+    <VALUE>
+      <uk>Значення</uk>
+      <en>Value</en>
+      <fr>Valeur</fr>
+      <ru>Значение</ru>
+      <de>Wert</de>
+    </VALUE>
+    <WASHABLE>
+      <uk>Мийка</uk>
+      <en>Washing</en>
+      <fr>Lavable</fr>			  
+      <ru>Мойка</ru>
+      <de>Waschen</de>
+    </WASHABLE>
+    <BRAKECOMPRESSOR>
+      <uk>Гальмівний компресор</uk>
+      <en>Brake Compressor</en>
+      <fr>Compresseur de frein</fr>							   
+      <ru>Тормозной компрессор</ru>
+      <de>Bremsverstärker</de>
+    </BRAKECOMPRESSOR>
+    <FILLSPEED>
+      <uk>Швидкість заповнення</uk>
+      <en>Fill speed</en>
+      <fr>Vitesse de remplissage</fr>								 
+      <ru>Скорость заполнения</ru>
+      <de>Füllgeschwindigkeit</de>
+    </FILLSPEED>
+    <AXISCOLOR>
+      <uk>Колір осей</uk>
+      <en>Color of axes</en>
+      <fr>Couleur des axes</fr>						   
+      <ru>Цвет осей</ru>
+      <de>Farbe der Achsen</de>
+    </AXISCOLOR>
+    <DOWNFORCE>
+      <uk>Сила прижимання (Downforce)</uk>
+      <en>Downforce</en>
+      <fr>Appuis</fr>				 
+      <ru>Сила прижимання (Downforce)</ru>
+      <de>Anpressdruck</de>
+    </DOWNFORCE>
+    <SEEDFRUITTYPES>
+      <uk>Типи насіння</uk>
+      <en>Types seeds</en>
+      <ru>Типы семян</ru>
+      <de>Fruchtarten</de>
+      <fr>Types semences</fr>				  
+    </SEEDFRUITTYPES>
+    <FUELFILLLITERSPERSECOND>
+      <uk>Витрата (л/с)</uk>
+      <en>Outgo (l/s)</en>
+      <fr>Comsommation carburant (l/s)</fr>									   
+      <ru>Расход (л/с)</ru>
+      <de>Abgabe (l/s)</de>
+    </FUELFILLLITERSPERSECOND>
+    <RIMCOLOR>
+      <uk>Кольор ободів</uk>
+      <en>Rim Color</en>
+      <fr>Couleur jante</fr>						
+      <ru>Цвет ободов</ru>
+      <de>Felgenfarbe</de>
+    </RIMCOLOR>
+    <USEDIRECTPLANTING>
+      <uk>Нульовий посів</uk>
+      <en>Use direct planting</en>
+      <fr>Utiliser une plantation directe</fr>										  
+      <ru>Нулевой посев</ru>
+      <de>Direktsaat</de>
+    </USEDIRECTPLANTING>
+    <SHOWONMAP>
+      <uk>Показувати на мапі</uk>
+      <en>Show on map</en>
+      <fr>Visible sur la map</fr>							 
+      <ru>Показывать на карте</ru>
+      <de>Auf Karte zeigen</de>
+    </SHOWONMAP>
+    <FUELUSAGE>
+      <uk>Використання палива</uk>
+      <en>Fuel Use</en>
+      <fr>Utilisation fuel</fr>						   
+      <ru>Использование топлива</ru>
+      <de>Kraftstoffverbrauch</de>
+    </FUELUSAGE>
+    <FUELCAPACITY>
+      <uk>Ємність палива</uk>
+      <en>Fuel capacity</en>
+      <fr>Capacité fuel</fr>						 
+      <ru>Вместимость топлива</ru>
+      <de>Tankgröße</de>
+    </FUELCAPACITY>
+    <BRAKEFORCE>
+      <uk>Сила гальмування</uk>
+      <en>Braking force</en>
+      <fr>Force freinage</fr>						 
+      <ru>Сила торможения</ru>
+      <de>Bremskraft</de>
+    </BRAKEFORCE>
+    <WATERTANK>
+      <uk>Бак для води</uk>
+      <en>Water tank</en>
+      <fr>Citerne eau</fr>					  
+      <ru>Бак с водой</ru>
+      <de>Wassertank</de>
+    </WATERTANK>
+    <USAGEPERHOUR>
+      <uk>Використання в годину</uk>
+      <en>Usage per hour</en>
+      <fr>Usage par heure</fr>						  
+      <ru>Использование в час</ru>
+      <de>Verbrauch pro Stunde</de>
+    </USAGEPERHOUR>
+    <MANUREPLANE>
+      <uk>Добриво (гній)</uk>
+      <en>Fertilizer (manure)</en>
+      <fr>Engrais (fumier)</fr>						   
+      <ru>Удобрение (навоз)</ru>
+      <de>Dünger (Mist)</de>
+    </MANUREPLANE>
+    <FILLTYPES>
+      <uk>Тип культур</uk>
+      <en>Fill types</en>
+      <fr>Type de remplissage</fr>							  
+      <ru>Тип культур</ru>
+      <de>Ladegut</de>
+    </FILLTYPES>
+    <FRONTLOADERCONFIGURATIONS>
+      <uk>Конфігуратор зчіпки навантажувача</uk>
+      <en>Configurator truck hitch</en>
+      <fr>CONFIGURATIONS DU CHARGEUR AVANT</fr>										   
+      <ru>Конфигуратор сцепки погрузчика</ru>
+      <de>Konfiguration Frontlader</de>
+    </FRONTLOADERCONFIGURATIONS>
+    <STANDART_MOUNT>
+      <uk>Стандартне кріплення</uk>
+      <en>Standard mount</en>
+      <fr>Montage standard</fr>						   
+      <ru>Стандартное крепление</ru>
+      <de>Standardbefestigung</de>
+    </STANDART_MOUNT>
+    <FILLUNITS>
+      <uk>Налаштування культур і місткості</uk>
+      <en>Adjusting crop and capacity</en>
+      <fr>Ajuster la récolte et la capacité</fr>											  
+      <ru>Настройка культур и вместимости</ru>
+      <de>Einstellung für Ertrag und Kapazität</de>
+    </FILLUNITS>
+    <FILLUNIT>
+      <uk>Сховище (fillUnit)</uk>
+      <en>Storage (fillUnit)</en>
+      <fr>Stockage (unité de remplissage)</fr>										   
+      <ru>Хранилище (fillUnit)</ru>
+      <de>Speicher (fillUnit)</de>
+    </FILLUNIT>
+    <DESIGNCOLORCONFIGURATIONS>
+      <uk>Конфігурації кольру дизайну</uk>
+      <en>Design Color Configurations</en>
+      <fr>Configurer les configurations de couleurs</fr>
+      <ru>Конфигурации цвета дизайна</ru>
+      <de>Design/Farbe Konfiguration</de>
+    </DESIGNCOLORCONFIGURATIONS>
+    <CONFIGURATION>
+      <uk>Конфігурація</uk>
+      <en>Configuration</en>
+      <fr>Configuration</fr>						
+      <ru>Конфигурация</ru>
+      <de>Konfiguration</de>
+    </CONFIGURATION>
+    <WHEELS>
+      <uk>Колеса</uk>
+      <en>Wheels</en>
+      <fr>Pneu</fr>			   
+      <ru>Колеса</ru>
+      <de>Reifen</de>
+    </WHEELS>
+    <AUTOROTATEBACKSPEED>
+      <uk>Швидкість авто повернення</uk>
+      <en>Speed auto return</en>
+      <fr>Retour automatique rapide</fr>									
+      <ru>Скорость авто возврата</ru>
+      <de>Rückfahrgeschwindigkeit</de>
+    </AUTOROTATEBACKSPEED>
+    <FILLLITERSPERSECOND>
+      <uk>Розхід (л / с)</uk>
+      <en>Consumption (l / s)</en>
+      <fr>Consommation (l/s)</fr>							 
+      <ru>Расход(л/с)</ru>
+      <de>Verbrauch (l/s)</de>
+    </FILLLITERSPERSECOND>
+    <COMBINATION>
+      <uk>Комбінація з</uk>
+      <en>Combination with</en>
+      <fr>Combinaison avec</fr>						   
+      <ru>Комбинация с</ru>
+      <de>Kombinierbar mit</de>
+    </COMBINATION>
+    <BASE>
+      <uk>Базові значення (base)</uk>
+      <en>Baseline values (base)</en>
+      <fr>Valeurs de base (base)</fr>								 
+      <ru>Базовые значения (base)</ru>
+      <de>Grundwerte (base)</de>
+    </BASE>
+    <SIZE>
+      <uk>Розмір</uk>
+      <en>Size</en>
+      <fr>Taille</fr>				 
+      <ru>Размер</ru>
+      <de>Höhe</de>
+    </SIZE>
+    <LENGTH>
+      <uk>Довжина</uk>
+      <en>Length</en>
+      <fr>Longueur</fr>				   
+      <ru>Длина</ru>
+      <de>Länge</de>
+    </LENGTH>
+    <WIDTH>
+      <uk>Ширина</uk>
+      <en>Length</en>
+      <fr>Largeur</fr>				  
+      <ru>Ширина</ru>
+      <de>Breite</de>
+    </WIDTH>
+    <NEEDEDMAXPTOPOWER>
+      <uk>Необхідна максимальна потужність</uk>
+      <en>Needed Max Pto Power</en>
+      <fr>Puissance max de prise de force requise</fr>												  
+      <ru>Необходимая максимальная мощность</ru>
+      <de>Maximal benötigte Leistung</de>
+    </NEEDEDMAXPTOPOWER>
+    <NEEDEDMINPTOPOWER>
+      <uk>Необхідна мінімальна потужність</uk>
+      <en>Needed Min Pto Power</en>
+      <ru>Необходимая минимальная мощность</ru>
+      <de>Minimal benötigte Leistung</de>
+    </NEEDEDMINPTOPOWER>
+    <BASEMATERIALCONFIGURATIONS>
+      <uk>Налаштування кольору (baseMaterialConfigurations)</uk>
+      <en>Color settings (baseMaterialConfigurations)</en>
+      <fr>Paramètres de couleur (baseMaterialConfigurations)</fr>
+      <ru>Настройки цвета (baseMaterialConfigurations)</ru>
+      <de>Farbeinstellungen (baseMaterialConfigurations)</de>
+    </BASEMATERIALCONFIGURATIONS>
+    <USEDEFAULTCOLORS>
+      <uk>Використовувати стандартні кольори</uk>
+      <en>Use standard colors</en>
+      <fr>Utiliser des couleurs standard</fr>										 
+      <ru>Использовать стандартные цвета</ru>
+      <de>Standardfarbe benutzen</de>
+    </USEDEFAULTCOLORS>
+    <PRICE>
+      <uk>Ціна</uk>
+      <en>Price</en>
+      <fr>Prix</fr>			   
+      <ru>Цена</ru>
+      <de>Preis</de>
+    </PRICE>
+    <BASEMATERIALCONFIGURATIONS>
+      <uk>Налаштування кольору (baseMaterialConfiguration)</uk>
+      <en>Color settings (baseMaterialConfiguration)</en>
+      <fr>Utiliser des couleurs standard</fr>										 
+      <ru>Настройки цвета (baseMaterialConfiguration)</ru>
+      <de>Farbeinstellungen (baseColorConfiguration)</de>
+    </BASEMATERIALCONFIGURATIONS>
+    <COLOR>
+      <uk>Колір</uk>
+      <en>Color</en>
+      <fr>Couleur</fr>				  
+      <ru>Цвет</ru>
+      <de>Farbe</de>
+    </COLOR>
+    <MATERIAL>
+      <uk>Матеріал</uk>
+      <en>Material</en>
+      <fr>Matériel</fr>					
+      <ru>Материал</ru>
+      <de>Material</de>
+    </MATERIAL>
+    <FILLUNITCONFIGURATIONS>
+      <uk>Конфігурації сховищ</uk>
+      <en>Storage Configurations</en>
+      <fr>Configurations stockages</fr>								   
+      <ru>Конфигурации хранилищ</ru>
+      <de>Speichereinstellungen</de>
+    </FILLUNITCONFIGURATIONS>
+    <FILLUNITCONFIGURATION>
+      <uk>Конфігурація сховища</uk>
+      <en>Storage Configuration</en>
+      <fr>Configuration stockage</fr>								 
+      <ru>Конфигурация хранилища</ru>
+      <de>Speichereinstellung</de>
+    </FILLUNITCONFIGURATION>
+    <UNLOADING>
+      <uk>Вивантаження</uk>
+      <en>Unloading</en>
+      <fr>Déchargement</fr>						
+      <ru>Выгрузка</ru>
+      <de>Abladen</de>
+    </UNLOADING>
+    <ALLOWFOLDINGWHILEFILLED>
+      <uk>Дозволяють складати при заповненні</uk>
+      <en>Allow Folding While Filled</en>
+      <fr>Autoriser le pliage une fois rempli</fr>											  
+      <ru>Разрешить складывание при заполнении</ru>
+      <de>Zusammenklappen beim Befüllen erlauben</de>
+    </ALLOWFOLDINGWHILEFILLED>
+    <REMOVEVEHICLEIFEMPTY>
+      <uk>Видаляти якщо порожньо</uk>
+      <en>Delete if empty</en>
+      <fr>Supprimer si vide</fr>							
+      <ru>Удалять если пусто</ru>
+      <de>Löschen wenn leer</de>
+    </REMOVEVEHICLEIFEMPTY>
+    <SHOVEL>
+      <uk>Ковш</uk>
+      <en>Shovel </en>
+      <fr>Pelle</fr>				
+      <ru>Ковш</ru>
+      <de>Schaufel</de>
+    </SHOVEL>
+    <NEEDSACTIVATION>
+      <uk>Потрібна активація</uk>
+      <en>Needsactivation</en>
+      <fr>Besoin d'activation</fr>							  
+      <ru>Требуется активация</ru>
+      <de>Aktivierung nötig</de>
+    </NEEDSACTIVATION>
+    <BASEMATERIAL>
+      <uk>Налаштування кольору (baseMaterial)</uk>
+      <en>Color settings (baseMaterial)</en>
+      <fr>Paramètres de couleur (baseMaterial)</fr>												
+      <ru>Настройки цвета (baseMaterial)</ru>
+      <de>Farbeinstellungen (baseMaterial)</de>
+    </BASEMATERIAL>
+    <WHEELCONFIGURATION>
+      <uk>Конфігурація коліс</uk>
+      <en>Wheel configuration</en>
+      <fr>Configuration des roues</fr>								  
+      <ru>Конфигурация колес</ru>
+      <de>Rädereinstellungen</de>
+    </WHEELCONFIGURATION>
+    <BRAND>
+      <uk>Бренд</uk>
+      <en>Brand</en>
+      <fr>Marque</fr>				 
+      <ru>Бренд</ru>
+      <de>Hersteller</de>
+    </BRAND>
+    <FORAGEWAGON>
+      <uk>Фуражний причіп</uk>
+      <en>Forage Wagon</en>
+      <fr>Remorque fourrage</fr>							
+      <ru>Фуражный прицеп</ru>
+      <de>Ladewagen</de>
+    </FORAGEWAGON>
+    <BASECOLORCONFIGURATION>
+      <uk>Налаштування кольору</uk>
+      <en>Color settings</en>
+      <fr>Paramètres de couleur</fr>								 
+      <ru>Настройки цвета</ru>
+      <de>Farbeinstellungen</de>
+    </BASECOLORCONFIGURATION>
+    <WATERTRAILER>
+      <uk>Водяная цистерна</uk>
+      <en>Water tank</en>
+      <fr>Remorque à eau</fr>						  
+      <ru>Водяна цистерна</ru>
+      <de>Wassertank</de>
+    </WATERTRAILER>
+    <CUTTER>
+      <uk>Жатка</uk>
+      <en>Cutter </en>
+      <fr>Coupe</fr>				
+      <ru>Жатка</ru>
+      <de>Mähwerk</de>
+    </CUTTER>
+    <MIXERWAGON>
+      <uk>Змішувач</uk>
+      <en>Mixer</en>
+      <fr>Remorque mélangeuse</fr>							  
+      <ru>Смеситель</ru>
+      <de>Mischer</de>
+    </MIXERWAGON>
+    <MIXERWAGONFILLTYPES>
+      <uk>Налаштування культур міксера</uk>
+      <en>Setting Mixer Cultures</en>
+      <fr>Définition des cultures de mixage</fr>											 
+      <ru>Настройка культур миксера</ru>
+      <de>Setze Mischereinstellungen</de>
+    </MIXERWAGONFILLTYPES>
+    <MIXERWAGONFILLTYPE>
+      <uk>Налаштування культури</uk>
+      <en>Setting Cultures</en>
+      <fr>Définition des cultures</fr>								   
+      <ru>Настройка культуры</ru>
+      <de>Mischereinstellungen</de>
+    </MIXERWAGONFILLTYPE>
+    <MAXPERCENTAGE>
+      <uk>Макс. відсоток</uk>
+      <en>Max Percentage</en>
+      <fr>Maw Pourcentage</fr>						  
+      <ru>Максимальный процент</ru>
+      <de>Max. Verhältnis</de>
+    </MAXPERCENTAGE>
+    <MINPERCENTAGE>
+      <uk>Мін. відсоток</uk>
+      <en>Min Percentage</en>
+      <fr>Min Pourcentage</fr>						  
+      <ru>Минимальный процент</ru>
+      <de>Min. Verhältnis</de>
+    </MINPERCENTAGE>
+    <LOADINGSTATION>
+      <uk>Завантажувальна станція</uk>
+      <en>Loading Station</en>
+      <fr>Station de chargement</fr>								
+      <ru>Станция загрузки</ru>
+      <de>Ladestation</de>
+    </LOADINGSTATION>
+    <UNLOADINGSTATION>
+      <uk>Станція розвантаження</uk>
+      <en>Unloading Station</en>
+      <fr>Station déchargement</fr>								
+      <ru>Станция разгрузки</ru>
+      <de>Abladestation</de>
+    </UNLOADINGSTATION>
+    <APPEARSONPDA>
+      <uk>Показувати на ПДА</uk>
+      <en>Show on PDA</en>
+      <fr>Affichage sur le PDA</fr>							   
+      <ru>Показувати на ПДА</ru>
+      <de>Auf PDA zeigen</de>
+    </APPEARSONPDA>
+    <STORAGES>
+      <uk>Склади</uk>
+      <en>Storages</en>
+      <fr>Espace de rangement</fr>							  
+      <ru>Хранилища</ru>
+      <de>Speicher</de>
+    </STORAGES>
+    <STORAGE>
+      <uk>Склад</uk>
+      <en>Storage</en>
+      <fr>Espace de rangement</fr>							  
+      <ru>Хранилище</ru>
+      <de>Speicher</de>
+    </STORAGE>
+    <LIVESTOCKTRAILER>
+      <uk>Трейлер для тварин</uk>
+      <en>Livestock Trailer</en>
+      <fr>Remorque animaux</fr>						   
+      <ru>Трейлер скота</ru>
+      <de>Viehanhänger</de>
+    </LIVESTOCKTRAILER>
+    <BALER>
+      <uk>Прес-підбирач</uk>
+      <en>Baler </en>
+      <fr>Presse</fr>				 
+      <ru>Пресс-подборщик</ru>
+      <de>Ballenwagen</de>
+    </BALER>
+    <BALETYPE>
+      <uk>Тип тюка</uk>
+      <en>Bale Type</en>
+      <fr>Type de balle</fr>						
+      <ru>Тип тюка</ru>
+      <de>Ballentyp</de>
+    </BALETYPE>
+    <DIAMETER>
+      <uk>Діаметр</uk>
+      <en>Diameter</en>
+      <fr>Diamétre</fr>					
+      <ru>Диаметр</ru>
+      <de>Durchmesser</de>
+    </DIAMETER>
+    <ISROUNDBALE>
+      <uk>Круглый тюк</uk>
+      <en>Round bale</en>
+      <fr>Balle ronde</fr>					  
+      <ru>Круглый тюк</ru>
+      <de>Rundballen</de>
+    </ISROUNDBALE>
+    <HEIGHT>
+      <uk>Висота</uk>
+      <en>Height</en>
+      <fr>Taille</fr>				 
+      <ru>Высота</ru>
+      <de>Höhe</de>
+    </HEIGHT>
+    <BALEWRAPPER>
+      <uk>Налаштування тюковщика</uk>
+      <en>Baler setting</en>
+      <fr>Enrubanneuse</fr>					   
+      <ru>Настройка тюковщика</ru>
+      <de>Einstellungen Ballenwagen</de>
+    </BALEWRAPPER>
+    <WRAPPINGCOLORCONFIGURATIONS>
+      <uk>Налаштування кольру упаковки</uk>
+      <en>Wrapping Color Configurations</en>
+      <fr>Couleur film</fr>					   
+      <ru>Конфигурация цвета упаковки</ru>
+      <de>Wicklung Farbeinstellungen</de>
+    </WRAPPINGCOLORCONFIGURATIONS>
+    <SPRAYER>
+      <uk>Розпилювач</uk>
+      <en>Sprayer</en>
+      <fr>Pulvérisateur</fr>						 
+      <ru>Распылитель</ru>
+      <de>Sprühgerät</de>
+    </SPRAYER>
+    <SOWINGMACHINE>
+      <uk>Сівалка</uk>
+      <en>Sowing Machine</en>
+      <fr>Semoir</fr>				 
+      <ru>Сеялка</ru>
+      <de>Sähmaschine</de>
+    </SOWINGMACHINE>
+    <DESIGNMATERIALCONFIGURATIONS>
+      <uk>Налаштування кольору (designMaterialConfigurations)</uk>
+      <en>Color settings (designMaterialConfigurations)</en>
+      <fr>Paramètres de couleur (designMaterialConfigurations)</fr>
+      <ru>Настройки цвета (designMaterialConfigurations)</ru>
+      <de>Farbeinstellungen (designMaterialConfigurations)</de>
+    </DESIGNMATERIALCONFIGURATIONS>
+	<USAGE>
+      <uk>Використання</uk>
+      <en>Usage</en>
+      <fr>Usage</fr>				
+      <ru>Использование</ru>
+      <de>Verarbeitung</de>
+    </USAGE>
+  </Titles>
+
+ <storeData title="STOREDATA">
+    <Children>
+      <specs title="SPECS" Create="true">
+        <Children>
+          <power title="POWER" Create="true">double</power>
+          <maxSpeed title="MAXSPEED" Create="true">double</maxSpeed>
+          <neededPower title="NEEDEDPOWER" Create="true">double</neededPower>
+          <workingWidth title="WORKINGWIDTH" Create="true">double</workingWidth>
+          <fillTypes title="FILLTYPES" Create="true">filltypes</fillTypes>
+          <fillTypeCategories title="FILLTYPECATEGORIES" Create="true">fillTypeCategories</fillTypeCategories>
+          <capacity title="CAPACITY" Create="true">double</capacity>
+          <combination title="COMBINATION" Create="true">string</combination>
+        </Children>
+      </specs>
+    </Children>
+  </storeData>
+  <motorConfigurations title="MOTORCONFIGURATIONS">motor</motorConfigurations>
+  <gearboxMogli title="GEARBOXMOGLI">
+    <Attributes>
+      <maxBackwardSpeed title="MAXBACKWARDSPEED" Create="true">double</maxBackwardSpeed>
+      <maxForwardSpeed title="MAXFORWARDSPEED" Create="true">double</maxForwardSpeed>
+      <ptoRpm title="PTORPM" Create="true">double</ptoRpm>
+      <ptoRpmEco title="PTORPMECO" Create="true">double</ptoRpmEco>
+      <maxAIRange title="MAXAIRANGE" Create="true">double</maxAIRange>
+    </Attributes>
+    <Children>
+      <gears title="GEARS" Create="true">
+        <Attributes>
+          <shiftTimeMs title="SHIFTTIMEMS" Create="true">double</shiftTimeMs>
+          <defaultGear title="DEFAULTGEAR" Create="true">double</defaultGear>
+          <automatic title="AUTOMATIC" Create="true">bool</automatic>
+        </Attributes>
+        <Children>
+          <gear title="GEAR" Create="true">
+            <Attributes>
+              <speed title="SPEED" Create="true">double</speed>
+            </Attributes>
+          </gear>
+        </Children>
+      </gears>
+      <ranges title="RANGES" Create="true">
+        <Attributes>
+          <defaultRange title="DEFAULTRANGE" Create="true">double</defaultRange>
+          <automatic title="AUTOMATIC" Create="true">bool</automatic>
+        </Attributes>
+        <Children>
+          <range title="RANGE" Create="true">
+            <Attributes>
+              <ratio title="RATIO" Create="true">double</ratio>
+              <name title="NAME" Create="true">name</name>
+            </Attributes>
+          </range>
+        </Children>
+      </ranges>
+      <reverse title="REVERSE" Create="true">
+        <Attributes>
+          <resetGear title="RESETGEAR" Create="true">bool</resetGear>
+          <resetRange title="RESETRANGE" Create="true">bool</resetRange>
+        </Attributes>
+      </reverse>
+      <engines title="ENGINES" Create="true">
+        <Children>
+          <engine title="ENGINE" Create="true">
+            <Attributes>
+              <name title="NAME" Create="true">name</name>
+              <idleRpm title="IDLERPM" Create="true">double</idleRpm>
+              <ratedRpm title="RATEDRPM" Create="true">double</ratedRpm>
+            </Attributes>
+            <Children>
+              <torque title="TORQUE" Create="true">
+                <Attributes>
+                  <rpm title="RPM" Create="true">double</rpm>
+                  <motorTorque title="MOTORTORQUE" Create="true">double</motorTorque>
+                  <motorTorqueEco title="MOTORTORQUEECO" Create="true">double</motorTorqueEco>
+                  <fuelUsageRatio title="FUELUSAGERATIO" Create="true">double</fuelUsageRatio>
+                </Attributes>
+              </torque>
+            </Children>
+          </engine>
+        </Children>
+      </engines>
+    </Children>
+  </gearboxMogli>
+  <attacherJointConfigurations title="ATTACHERJOINTCONFIGURATIONS">
+    <Children>
+      <attacherJointConfiguration title="ATTACHERJOINTCONFIGURATION" Create="true">
+        <Attributes>
+          <name title="NAME" Create="true">name</name>
+          <price title="PRICE" Create="true">double</price>
+        </Attributes>
+      </attacherJointConfiguration>
+    </Children>
+  </attacherJointConfigurations>
+  <frontloaderConfigurations title="FRONTLOADERCONFIGURATIONS">
+    <Children>
+      <frontloaderConfiguration title="STANDART_MOUNT">
+        <Attributes>
+          <name title="NAME" Create="true">name</name>
+          <price title="PRICE" Create="true">double</price>
+        </Attributes>
+      </frontloaderConfiguration>
+    </Children>
+  </frontloaderConfigurations>
+  <vehicleTypeConfigurations title="VEHICLETYPECONFIGURATIONS">
+    <Children>
+      <vehicleTypeConfiguration title="VEHICLETYPECONFIGURATION">
+        <Attributes>
+          <name title="NAME" Create="true">name</name>
+          <price title="PRICE" Create="true">double</price>
+        </Attributes>
+      </vehicleTypeConfiguration>
+    </Children>
+  </vehicleTypeConfigurations>
+  <wheelConfigurations title="WHEELCONFIGURATIONS">
+    <Children>
+      <wheelConfiguration title="CONFIGURATION" Create="true">
+        <Attributes>
+          <name title="NAME" Create="true">name</name>
+          <price title="PRICE" Create="true">double</price>
+          <icon title="ICON" Create="true">icon</icon>
+        </Attributes>
+        <Children>
+          <wheels title="WHEELS" Create="true">
+            <Attributes>
+              <autoRotateBackSpeed title="AUTOROTATEBACKSPEED" Create="true">double</autoRotateBackSpeed>
+            </Attributes>
+          </wheels>
+        </Children>
+      </wheelConfiguration>
+      <wheelConfiguration title="WHEELCONFIGURATION">
+        <Attributes>
+          <price title="PRICE" Create="true">double</price>
+          <name title="NAME" Create="true">name</name>
+        </Attributes>
+        <Children>
+          <wheels title="WHEELS" Create="true">
+            <Attributes>
+              <autoRotateBackSpeed title="AUTOROTATEBACKSPEED" Create="true">string</autoRotateBackSpeed>
+            </Attributes>
+          </wheels>
+        </Children>
+      </wheelConfiguration>
+    </Children>
+  </wheelConfigurations>
+  <designConfigurations title="DESIGNCONFIGURATIONS">
+    <Children>
+      <designConfiguration title="DESIGNCONFIGURATION" Create="true">
+        <Attributes>
+          <name title="NAME" Create="true">name</name>
+          <price title="PRICE" Create="true">double</price>
+          <icon title="ICON" >icon</icon>
+        </Attributes>
+      </designConfiguration>
+    </Children>
+  </designConfigurations>
+  <baseColorConfigurations title="BASECOLORCONFIGURATIONS">
+    <Attributes>
+      <price title="PRICE" Create="true">double</price>
+      <icon title="ICON">icon</icon>
+    </Attributes>
+  </baseColorConfigurations>
+  <rimColorConfigurations title="RIMCOLORCONFIGURATIONS">
+    <Attributes>
+      <price title="PRICE" Create="true">double</price>
+      <icon title="ICON">icon</icon>
+      <useDefaultColors title="USEDEFAULTCOLORS">bool</useDefaultColors>
+    </Attributes>
+    <Children>
+      <rimColorConfiguration title="RIMCOLORCONFIGURATION">
+        <Attributes>
+          <color title="COLOR" Create="true">color</color>
+        </Attributes>
+      </rimColorConfiguration>
+    </Children>
+  </rimColorConfigurations>
+  <designColorConfigurations title="DESIGNCOLORCONFIGURATIONS">
+    <Attributes>
+      <price title="PRICE" Create="true">double</price>
+      <icon title="ICON" Create="true">icon</icon>
+    </Attributes>
+  </designColorConfigurations>
+  <fillUnits title="FILLUNITS">
+    <Children>
+      <fillUnit title="FILLUNIT" Create="true">
+        <Attributes>
+          <fillTypes title="FILLTYPE" Create="true">fillTypes</fillTypes>
+          <fillTypeCategories title="FILLTYPECATEGORIES" Create="true">fillTypeCategories</fillTypeCategories>
+          <capacity title="CAPACITY" Create="true">double</capacity>
+          <unit title="UNIT" Create="true">name</unit>
+          <fillTypes title="FILLTYPES" Create="true">fillTypes</fillTypes>
+        </Attributes>
+      </fillUnit>
+    </Children>
+  </fillUnits>
+  <sprayUsages title="SPRAYUSAGES">
+    <Children>
+      <sprayUsage title="SPRAYUSAGE" Create="true">
+        <Attributes>
+          <fillType title="FILLTYPE" Create="true">fillTypes</fillType>
+          <litersPerSecond title="LITERSPERSECOND" Create="true">double</litersPerSecond>
+        </Attributes>
+      </sprayUsage>
+    </Children>
+  </sprayUsages>
+  <strawType title="STRAWTYPE">
+    <Attributes>
+      <name title="NAME" Create="true">name</name>
+    </Attributes>
+    <Children>
+      <binding title="BINDING" Create="true">
+        <Attributes>
+          <fruitType title="FRUITTYPE" Create="true">fillTypes</fruitType>
+        </Attributes>
+      </binding>
+    </Children>
+  </strawType>
+  <fillPlanes title="FILLPLANES">
+    <Children>
+      <fillPlane title="FILLPLANE" Create="true">
+        <Attributes>
+          <fillType title="FILLTYPE" Create="true">fillTypes</fillType>
+        </Attributes>
+      </fillPlane>
+    </Children>
+  </fillPlanes>
+  <overloading title="OVERLOADING">
+    <Attributes>
+      <capacity title="CAPACITY" Create="true">double</capacity>
+    </Attributes>
+  </overloading>
+  <variableBody title="VARIABLEBODY">
+    <Children>
+      <node title="NODE">
+        <Attributes>
+          <name title="NAME" Create="true">name</name>
+          <capacity title="CAPACITY" Create="true">double</capacity>
+          <fillTypeCategories title="FILLTYPECATEGORIES" Create="true">fillTypeCategories</fillTypeCategories>
+        </Attributes>
+      </node>
+    </Children>
+  </variableBody>
+  <fillTrigger title="FILLTRIGGER">
+    <Attributes>
+      <fillType title="FILLTYPE" Create="true">fillTypes</fillType>
+    </Attributes>
+  </fillTrigger>
+  <chargeTypes title="CHARGETYPES">
+    <Attributes>
+      <chargeTypes title="CHARGETYPES" Create="true">fillTypes</chargeTypes>
+    </Attributes>
+  </chargeTypes>
+  <powerConsumer title="POWERCONSUMER">
+    <Attributes>
+      <ptoRpm title="PTORPM" Create="true">double</ptoRpm>
+      <neededPtoPower title="NEEDEDPTOPOWER" Create="true">double</neededPtoPower>
+      <maxForce title="MAXFORCE" Create="true">double</maxForce>
+      <forceFactor title="FORCEFACTOR" Create="true">double</forceFactor>
+    </Attributes>
+  </powerConsumer>
+  <speedLimit title="SPEEDLIMIT">
+    <Attributes>
+      <value title="VALUE" Create="true">double</value>
+    </Attributes>
+  </speedLimit>
+  <washable title="WASHABLE">
+    <Attributes>
+      <dirtDuration title="DIRTDURATION" Create="true">double</dirtDuration>
+      <washDuration title="WASHDURATION" Create="true">double</washDuration>
+      <workMultiplier title="WORKMULTIPLIER" Create="true">double</workMultiplier>
+    </Attributes>
+  </washable>
+  <steeringAxleAngleScale title="STEERING_AXLE_ANGLE_SCALE">
+    <Attributes>
+      <startSpeed title="STARTSPEED" Create="true">double</startSpeed>
+      <endSpeed title="ENDSPEED" Create="true">double</endSpeed>
+    </Attributes>
+  </steeringAxleAngleScale>
+  <brakeCompressor title="BRAKECOMPRESSOR">
+    <Attributes>
+      <capacity title="CAPACITY" Create="true">double</capacity>
+      <fillSpeed title="FILLSPEED" Create="true">double</fillSpeed>
+    </Attributes>
+  </brakeCompressor>
+  <axisColor title="AXISCOLOR">color</axisColor>
+  <downForce title="DOWNFORCE">double</downForce>
+  <seedFruitTypes title="SEEDFRUITTYPES">fillTypes</seedFruitTypes>
+  <fillLitersPerSecond title="FILLLITERSPERSECOND">double</fillLitersPerSecond>
+  <fuelFillLitersPerSecond title="FUELFILLLITERSPERSECOND">double</fuelFillLitersPerSecond>
+  <rimColor title="RIMCOLOR">color</rimColor>
+  <useDirectPlanting title="USEDIRECTPLANTING">bool</useDirectPlanting>
+  <showOnMap title="SHOWONMAP">bool</showOnMap>
+  <fuelUsage title="FUELUSAGE">double</fuelUsage>
+  <dontAllowDamage title="DONT_ALLOW_DAMAGE">bool</dontAllowDamage>
+  <motorStartDuration title="MOTOR_START_DURATION">double</motorStartDuration>
+  <fuelCapacity title="FUELCAPACITY">double</fuelCapacity>
+  <brakeForce title="BRAKEFORCE">double</brakeForce>
+  <waterTank title="WATERTANK">
+    <Attributes>
+      <capacity title="CAPACITY" Create="true">double</capacity>
+      <usagePerHour title="USAGEPERHOUR" Create="true">double</usagePerHour>
+    </Attributes>
+  </waterTank>
+  <manurePlane title="MANUREPLANE">
+    <Attributes>
+      <capacity title="CAPACITY" Create="true">double</capacity>
+      <usagePerHour title="USAGEPERHOUR" Create="true">double</usagePerHour>
+    </Attributes>
+  </manurePlane>
+  <fillTypes title="FILLTYPES" Create="true">fillTypes</fillTypes>
+  <size title="SIZE">
+    <Attributes>
+      <length title="LENGTH" Create="true">double</length>
+      <width title="WIDTH" Create="true">string</width>
+    </Attributes>
+  </size>
+  <sprayUsageScales title="SPRAYUSAGESCALES">
+    <Attributes>
+      <scale title="SCALE" Create="true">double</scale>
+      <workingWidth title="WORKINGWIDTH" Create="true">string</workingWidth>
+    </Attributes>
+  </sprayUsageScales>
+  <sprayer title="SPRAYER">
+    <Attributes>
+      <allowsSpraying title="ALLOWSSPRAYING" Create="true">bool</allowsSpraying>
+      <isTank title="ISTANK" Create="true">bool</isTank>
+    </Attributes>
+  </sprayer>
+  <needsActivation title="NEEDSACTIVATION">
+    <Attributes>
+      <value title="VALUE" Create="true">bool</value>
+    </Attributes>
+  </needsActivation>
+  <baler title="BALER">
+    <Children>
+      <baleTypes title="BALETYPES" Create="true">
+        <Children>
+          <baleType title="BALETYPE" Create="true">
+            <Attributes>
+              <length title="LENGTH" Create="true">string</length>
+              <height title="HEIGHT" Create="true">string</height>
+              <width title="WIDTH" Create="true">string</width>
+            </Attributes>
+          </baleType>
+        </Children>
+      </baleTypes>
+    </Children>
+  </baler>
+  <wrapper title="WRAPPER">
+    <Children>
+      <roundBaleWrapper title="ROUNDBALEWRAPPER">
+        <Children>
+          <baleTypes title="BALETYPES" Create="true">
+            <Children>
+              <baleType title="BALETYPE" Create="true">
+                <Attributes>
+                  <maxBaleWidth title="MAXBALEWIDTH" Create="true">string</maxBaleWidth>
+                  <minBaleWidth title="MINBALEWIDTH" Create="true">string</minBaleWidth>
+                  <maxBaleDiameter title="MAXBALEDIAMETER" Create="true">string</maxBaleDiameter>
+                  <minBaleDiameter title="MINBALEDIAMETER" Create="true">string</minBaleDiameter>
+                  <fillType title="FILLTYPE" Create="true">fillTypes</fillType>
+                </Attributes>
+              </baleType>
+            </Children>
+          </baleTypes>
+        </Children>
+      </roundBaleWrapper>
+    </Children>
+  </wrapper>
+   
+</MMFS17>
